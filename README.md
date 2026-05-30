@@ -1,1 +1,1 @@
-# synthe-gonnec-release
+# Synthé Gonnec
